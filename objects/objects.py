@@ -165,4 +165,3 @@ def validate_gr(collector_result: dict) -> Exception|bool:
 
 
 
-
