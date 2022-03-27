@@ -223,3 +223,18 @@ calculated_well = WellCalculations(name=my_plotting_well.WELL.header.name, RESIS
 # here the coming interpretation for the data
 ## Soon ......
 
+
+
+
+## D- All logs
+############################################################################################################
+############################################################################################################
+############################################################################################################
+
+
+## <Example for Plotting All logs> ##
+
+## 1.
+import matplotlib.pyplot as plt      ## import matplotlib
+
+
